@@ -16,6 +16,7 @@ webseriallib.isBrowserCompatible()
 
 ### Connect
 var webserial = new webseriallib(this.speedSelected)
+await webserial.connect();
 
 ### Monitor variables
 webserial.history

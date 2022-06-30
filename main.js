@@ -28,7 +28,6 @@ class webseriallib {
         this.connected = false
         this.speedSelected = speed
         this.history =  [{ time: Date.now(), text: "Init" }]
-        this.connect();
       }
       static isBrowserCompatible(){
         return "serial" in navigator

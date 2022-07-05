@@ -15,11 +15,11 @@ import {webseriallib} from "webseriallib"
 webseriallib.isBrowserCompatible()
 
 ### Connect
-var webserial = new webseriallib(this.speedSelected)
+var webserial = new webseriallib(this.speedSelected)  
 await webserial.connect();
 
 ### Monitor variables
-webserial.history
+webserial.history  
 webserial.connected
 
 ### Send message

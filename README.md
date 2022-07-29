@@ -2,6 +2,7 @@
 
 # webseriallib
 Tiny library to ease webserial connection in browser.
+[Demo](https://www.wearewebtools.com/webserial)
 
 ## Licence
 This is licenced under MIT licence. Find more in the licence file.

@@ -1,5 +1,4 @@
 
-
 # webseriallib
 Tiny library to ease webserial connection in browser.
 [Demo](https://www.wearewebtools.com/webserial)

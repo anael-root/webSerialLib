@@ -1,6 +1,6 @@
 
 # webseriallib
-Tiny library to ease webserial connection in browser.
+Tiny library to ease webserial connection in browser (only chrome and edge supported).
 [Demo](https://www.wearewebtools.com/webserial)
 
 ## Licence
